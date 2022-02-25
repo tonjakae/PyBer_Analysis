@@ -57,7 +57,7 @@
 
 ![image](https://user-images.githubusercontent.com/87340105/155802959-d98f9c27-89db-4c65-b805-5e9743edf9a8.png)
 
-* An annotated chart showing the total fares by city type is created and saved to the "analysis" folder
+* An annotated chart showing the total fares by city type is created and saved to the "Resources" folder
 
 ![image](https://user-images.githubusercontent.com/87340105/155804636-f1b87be6-f30d-4927-b654-caa628c520b4.png)
 
