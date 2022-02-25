@@ -31,5 +31,12 @@
 
 
 ## Deliverable 2: A multiple-line chart of total fares for each city type
+### Deliverable 2 Requirements
+
+* A DataFrame was created using the groupby() function on the "type" and "date" columns, and the sum() method is applied on the "fare" column to show the total fare amount for each date and time
+* A DataFrame was created using the pivot() function where the index is the "date," the columns are the city "type," and the values are the "fare."
+* A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-28
+* A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week
+* An annotated chart showing the total fares by city type is created and saved to the "analysis" folder
 
 ## Deliverable 3: A written report for the PyBer analysis
