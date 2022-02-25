@@ -59,6 +59,9 @@
 
 * An annotated chart showing the total fares by city type is created and saved to the "analysis" folder
 
-![image](https://user-images.githubusercontent.com/87340105/155803025-35104cfd-7fef-4600-a64c-b275ca135027.png)
+![image](https://user-images.githubusercontent.com/87340105/155804636-f1b87be6-f30d-4927-b654-caa628c520b4.png)
+
+![image](https://user-images.githubusercontent.com/87340105/155804669-be54045b-614c-455c-80ef-b9825c4bc801.png)
+
 
 ## Deliverable 3: A written report for the PyBer analysis
