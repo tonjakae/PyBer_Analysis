@@ -34,9 +34,31 @@
 ### Deliverable 2 Requirements
 
 * A DataFrame was created using the groupby() function on the "type" and "date" columns, and the sum() method is applied on the "fare" column to show the total fare amount for each date and time
+
+![image](https://user-images.githubusercontent.com/87340105/155791886-56919dbd-774c-4d79-b2d3-8687e207d264.png)
+![image](https://user-images.githubusercontent.com/87340105/155792074-bb5457ef-6d82-4d8a-9bb2-a96e50cc0e76.png)
+
 * A DataFrame was created using the pivot() function where the index is the "date," the columns are the city "type," and the values are the "fare."
+
+![image](https://user-images.githubusercontent.com/87340105/155792352-8c425279-8757-4466-8d25-adad7cfb065c.png)
+
+![image](https://user-images.githubusercontent.com/87340105/155802011-1b879cba-3ce0-4d58-b5fa-9d79113fe37a.png)
+
 * A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-28
+
+![image](https://user-images.githubusercontent.com/87340105/155802197-a51f3b91-7d1b-47f2-aabe-4bef262d564b.png)
+
+![image](https://user-images.githubusercontent.com/87340105/155802344-b0fdd43b-429f-457e-875a-3508ad16a4c7.png)
+
+![image](https://user-images.githubusercontent.com/87340105/155802738-c168f12f-34da-4354-90a6-bbc0ec1be15e.png)
+
+
 * A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week
+
+![image](https://user-images.githubusercontent.com/87340105/155802959-d98f9c27-89db-4c65-b805-5e9743edf9a8.png)
+
 * An annotated chart showing the total fares by city type is created and saved to the "analysis" folder
+
+![image](https://user-images.githubusercontent.com/87340105/155803025-35104cfd-7fef-4600-a64c-b275ca135027.png)
 
 ## Deliverable 3: A written report for the PyBer analysis
